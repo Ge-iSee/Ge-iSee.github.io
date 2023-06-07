@@ -19,7 +19,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {file: "meetteam.md", title: Meet the Team}
   - {file: "projects.md", title: Research Projects}
-  - {file: "publications.md", title: Publications}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:erjia.ge@utoronto.ca"}
